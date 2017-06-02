@@ -4,4 +4,4 @@ A simple solution to port custom filters from uBlock to Adaway
 
 # Thanks
 
-- @smbl
+- [@smlb](https://github.com/smlb)
