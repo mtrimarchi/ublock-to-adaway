@@ -11,7 +11,7 @@ is to merge them into one simple big host file and serve that to AdAway.
 
 Because adding custom host file to AdAway is a pain in the ass.
 
-## How to I use this on AdAway?
+## How can I use this on AdAway?
 
 Piece of cake! Just copy [this host](https://raw.githubusercontent.com/ludo237/ublock-to-adaway/master/result.txt) and you are done.
 
